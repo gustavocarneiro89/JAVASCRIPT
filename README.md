@@ -1,2 +1,2 @@
 # javascript
- Curso de PHP do Curso em video
+ Curso de javascript do Curso em video
